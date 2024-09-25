@@ -42,7 +42,7 @@ font-style: normal;
 .banner{
     height: 450px;
     width: 100%;
-    background-image: url(/banner.jpg);
+    background-image: url(Imagens/banner.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
